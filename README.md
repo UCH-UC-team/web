@@ -1,3 +1,13 @@
+# Quick-start
+Como usar github https://www.youtube.com/watch?v=hWglK8nWh60
+
+Herramientas y utilidades para ordenar el trabajo en github!: 
+https://github.com/features/project-management/
+
+https://guides.github.com/features/issues/
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/UCH-UC-team/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
