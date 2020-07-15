@@ -2,10 +2,12 @@
 Como usar github https://www.youtube.com/watch?v=hWglK8nWh60
 
 Herramientas y utilidades para ordenar el trabajo en github!: 
+
 https://github.com/features/project-management/
 
 https://guides.github.com/features/issues/
 
+Puedes sincronizar los repositorios con tu computador con github desktop
 
 
 ## Welcome to GitHub Pages
